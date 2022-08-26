@@ -270,3 +270,16 @@ body {
 .button-84:not(:disabled):active {
   transform: translateY(.125rem);
 }
+
+.input {
+  border-radius: 18px;
+  height: 35px;
+  vertical-align: bottom;
+  min-width: 12%;
+  color: #373636;
+  cursor: auto;
+  font-size: 1.1rem;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 4px;
+}
